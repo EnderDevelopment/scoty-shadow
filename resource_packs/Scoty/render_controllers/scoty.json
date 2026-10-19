@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.0",
+  "render_controllers": {
+    "controller.render.scoty": {
+      "arrays": {
+        "textures": [
+          {
+            "scoty_blue_eyes": "textures/entity/scoty/scoty_blue_eyes",
+            "scoty_red_eyes": "textures/entity/scoty/scoty_red_eyes",
+            "scoty_green_eyes": "textures/entity/scoty/scoty_green_eyes"
+          }
+        ]
+      },
+      "geometry": "geometry.scoty",
+      "materials": [
+        {
+          "*": "entity_alphatest"
+        }
+      ]
+    }
+  }
+}

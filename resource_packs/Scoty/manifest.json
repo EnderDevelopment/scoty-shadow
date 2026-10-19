@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Scoty Resource Pack",
+    "name": "Scoty",
+    "uuid": "00000000-0000-0000-0000-000000000002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Scoty Resource Module",
+      "type": "resources",
+      "uuid": "00000000-0000-0000-0000-000000000003",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "version": [1, 0, 0]
+    }
+  ]
+}
